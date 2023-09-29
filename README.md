@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   <br>
+  <h4>Imagem do projeto:</h4>
 <img src="https://github.com/Brucaraujo777/Projeto09-Weather-Forecast/blob/main/assets/Captura%20de%20tela%202023-09-29%20152824.png">
   <br>
   <br>
