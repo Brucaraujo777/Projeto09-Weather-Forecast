@@ -1,4 +1,3 @@
-
 <h1 align="center">Weather-Forecast<h1>
   <br>
 <h2>Esse foi o nono projeto que realizei no <a href="https://rodolfomori.com.br/devclub">DevClub.<a></h2>
@@ -13,6 +12,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   <br>
-<img src="">
+<img src="https://github.com/Brucaraujo777/Projeto09-Weather-Forecast/blob/main/assets/Captura%20de%20tela%202023-09-29%20152824.png">
   <br>
   <br>
